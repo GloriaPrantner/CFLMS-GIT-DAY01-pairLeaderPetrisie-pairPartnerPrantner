@@ -1,2 +1,6 @@
 First line
+
 second line!!
+
+Something in file2
+
